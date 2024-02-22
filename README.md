@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Aspiring Full Stack Developer
+
+My background includes experience in the Esports field, where i leveraged
+self-taught skills to provide applications, websites, and statistical analysis
+for professional Esports teams to enhance their performance
+
+Email: guzh09@gmail.com
+Github: https://github.com/GuzH09
+Portfolio: https://guzh-portfolio.vercel.app
