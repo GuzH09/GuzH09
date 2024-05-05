@@ -122,6 +122,9 @@ My journey into the tech world has been shaped by a diverse range of experiences
       </a>
       <br>DiscordJS
     </td>
+    <td align="center" width="96">
+      <br>
+    </td>
 </table>
 
 <hr/>
