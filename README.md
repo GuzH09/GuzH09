@@ -7,8 +7,6 @@ My journey into the tech world has been shaped by a diverse range of experiences
 - Initially, I pursued two years of studies in both Systems Engineering and Psychology before facing personal challenges that led to a pause in my formal education. <br>
 - Subsequently, I immersed myself in Esports, leveraging self-taught tools to provide applications, websites, and statistical analysis to professional Esports teams. This culminated in my tenure at Infinity Esports, a prominent organization in the Latin American Esports scene. As part of the technical staff, I contributed to group management, sports analysis, and data analytics, providing valuable statistical insights to enhance team performance. <br>
 - Currently, my focus is on building a career as a Full Stack Developer. Leveraging my academic background, supplemented by relevant coursework including training at Coderhouse, as well as both freelance and self-taught studies, I am actively pursuing opportunities to further enhance my skills and contribute meaningfully to the tech industry. <br>
-
-I have knowledge in HTML | CSS | JavaScript | SASS | Python | NodeJS | React | PostgreSQL | MySQL | MongoDB | Express | Tailwind | Bootstrap | Streamlit | Discord Bot Development on both NodeJs and Python .
 </p>
 
 <h3>📩 Contact Me:</h3>
