@@ -14,7 +14,7 @@ My journey into the tech world has been shaped by a diverse range of experiences
 <p>
     ◼ Email: guzh09@gmail.com <br>
     ◼ Github: https://github.com/GuzH09 <br>
-    ◼ Portfolio: https://guzh-portfolio.vercel.app <br>
+    ◼ Portfolio: https://guzhotero.dev <br>
 </p>
 
 <h3 align="center"> My Stack </h3> 
