@@ -78,7 +78,10 @@ My journey into the tech world has been shaped by a diverse range of experiences
   </tr>
   <tr align="center">
     <td align="center" width="96">
-      <br>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
+      </a>
+      <br>Astro
     </td>
     <td align="center" width="96">
       <a href="#">
