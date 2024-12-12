@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I am an Aspiring Full Stack Developer.</h3>
+<h3>I'm a Full Stack Developer.</h3>
 
 <p>
 My journey into the tech world has been shaped by a diverse range of experiences: <br>
