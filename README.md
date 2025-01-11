@@ -13,8 +13,8 @@ My journey into the tech world has been shaped by a diverse range of experiences
 
 <p>
     ◼ Email: guzh09@gmail.com <br>
-    ◼ Github: https://github.com/GuzH09 <br>
-    ◼ Portfolio: https://guzhotero.dev <br>
+    ◼ <a href="https://www.linkedin.com/in/hernan-agustin-otero-dev/">LinkedIn</a> <br>
+    ◼ <a href="https://guzhotero.dev/">Portfolio</a> <br>
 </p>
 
 <h3 align="center"> My Stack </h3> 
