@@ -112,6 +112,12 @@ I am always striving to grow, improve, and create value through technology.
     </td>
     <td align="center"  width="96">
       <a href="#">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      </a>
+      <br>Supabase
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -127,9 +133,6 @@ I am always striving to grow, improve, and create value through technology.
         <img src="https://skillicons.dev/icons?i=discordjs" width="48" height="48" alt="DiscordJS" />
       </a>
       <br>DiscordJS
-    </td>
-    <td align="center" width="96">
-      <br>
     </td>
 </table>
 
