@@ -3,10 +3,13 @@
 <h3>I'm a Full Stack Developer.</h3>
 
 <p>
-My journey into the tech world has been shaped by a diverse range of experiences: <br>
-- Initially, I pursued two years of studies in both Systems Engineering and Psychology before facing personal challenges that led to a pause in my formal education. <br>
-- Subsequently, I immersed myself in Esports, leveraging self-taught tools to provide applications, websites, and statistical analysis to professional Esports teams. This culminated in my tenure at Infinity Esports, a prominent organization in the Latin American Esports scene. As part of the technical staff, I contributed to group management, sports analysis, and data analytics, providing valuable statistical insights to enhance team performance. <br>
-- Currently, my focus is on building a career as a Full Stack Developer. Leveraging my academic background, supplemented by relevant coursework including training at Coderhouse, as well as both freelance and self-taught studies, I am actively pursuing opportunities to further enhance my skills and contribute meaningfully to the tech industry. <br>
+I am self-taught, adaptable, curious, and disciplined. Technology, and programming in particular, have been a constant throughout my life. What started over 15 years ago with developing video games in Adobe Flash to play with friends eventually became my career.
+</p>
+<p>
+I am driven by the challenge of learning new technologies and finding solutions to complex problems. From websites and applications to bots and interactive dashboards, every project is an opportunity to expand my skills and make an impact with my work.
+</p>
+<p>
+I am always striving to grow, improve, and create value through technology.
 </p>
 
 <h3>📩 Contact Me:</h3>
